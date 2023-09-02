@@ -21,17 +21,17 @@
     * What's the Big O? O(N)
     
     * Important Concepts:
-    1. Grown is with respect to the input
-    2. Constants are dropped
-    3. Worst case is usually way we measure
+        1. Grown is with respect to the input
+        2. Constants are dropped
+        3. Worst case is usually way we measure
     
     * Setup Kata:
-    1. Github repo: [https://github.com/ThePrimeagen/kata-machine](https://github.com/ThePrimeagen/kata-machine)
-    2. gh repo clone ThePrimeagen/kata-machine
-    3. cd kata-machine
-    4. yarn install
-    5. yarn generate
-    6. Test: npx jest NAME_OF_ALGORITHM
+        1. Github repo: [https://github.com/ThePrimeagen/kata-machine](https://github.com/ThePrimeagen/kata-machine)
+        2. gh repo clone ThePrimeagen/kata-machine
+        3. cd kata-machine
+        4. yarn install
+        5. yarn generate
+        6. Test: npx jest NAME_OF_ALGORITHM
 
 6. Binary Search Algorithms
     * What's the Big O?(LogN)
