@@ -19,7 +19,6 @@
 5.  Linear Search & Kata Setup 
     *  a [x0=v? , , , ,  ] search (arr, v)
     * What's the Big O? O(N)
-    
     * Important Concepts:
         - Grown is with respect to the input
         - Constants are dropped
@@ -32,10 +31,11 @@
         - yarn install
         - yarn generate
         - Test: npx jest NAME_OF_ALGORITHM
-
 6. Binary Search Algorithms
     * What's the Big O?(LogN)
     *  If the input halves at each step, its likely O(LogN) or O(NlogN)
+7. Pseudo Code Binary Search
+8. The two crystal ball problem
 
 # Module 03 - Sort
 # Module 04 - Arrays
