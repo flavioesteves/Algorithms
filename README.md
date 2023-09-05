@@ -3,20 +3,20 @@
 
 
 # Module 01 - Introduction
-1. Introduction
-2. Big O Time Complexity
+01. Introduction
+02. Big O Time Complexity
     * Growth is with respect to the input
     * Constants are dropped
     * Worst case is usually the way we measure
     * Upper Bound
-3. Arrays Data Structure
+03. Arrays Data Structure
     * They are fixes size, continiguos memory chunks
     * That means you cannot grow it
     * There is no "insertAt" or push or pop.Doesn't mean you can't write those though
-4. Array Q&A
+04. Array Q&A
 
 # Module 02 - Search
-5.  Linear Search & Kata Setup 
+05.  Linear Search & Kata Setup 
     *  a [x0=v? , , , ,  ] search (arr, v)
     * What's the Big O? O(N)
     * Important Concepts:
@@ -31,13 +31,17 @@
         - yarn install
         - yarn generate
         - Test: npx jest NAME_OF_ALGORITHM
-6. Binary Search Algorithms
+06. Binary Search Algorithms
     * What's the Big O?(LogN)
     *  If the input halves at each step, its likely O(LogN) or O(NlogN)
-7. Pseudo Code Binary Search
-8. The two crystal ball problem
+07. Pseudo Code Binary Search
+08. The two crystal ball problem
+09. Implementing Two Crystal Balls
 
 # Module 03 - Sort
+10. Bubble Sort
+11. Implementing Bubble Sort
+12. Linked List Data Structures
 # Module 04 - Arrays
 # Module 05 - Recursion
 # Module 06 - Quick Sort
