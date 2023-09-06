@@ -42,6 +42,14 @@
 10. Bubble Sort
 11. Implementing Bubble Sort
 12. Linked List Data Structures
+13. Linked List Complexity
+    * Lets talk time /scape complexity
+    - prepend/append
+    - Insertion in the middle
+    - Deletion from ends
+    - Deletion in the middle
+    - Get head / tail
+    - Get in general
 # Module 04 - Arrays
 # Module 05 - Recursion
 # Module 06 - Quick Sort

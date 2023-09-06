@@ -29,7 +29,7 @@ for j.. n0-i
 /**
 Prime words:
 "I said something weird erlier.
-I said that JS arraysm const a =[]; is not an array. We know have a solid definitions of an array, is it an array(yes someone answer)? And why not?
+I said that JS arrays const a =[]; is not an array. We know have a solid definitions of an array, is it an array(yes someone answer)? And why not?
 
 Next you are going to say HTML isn't a programming language
 - Neovim is the only true editor
@@ -48,7 +48,43 @@ Lets talk LinkedList
 - Singly Linked
 - Doubly Linked
 
-(A) -> (B)->(C) ->(D)
+(A) -> (B) -> (C) -> (D)
+
+SingleLinkedList
+Node<T>
+val: T
+next?:Node<T>
+
+
+DoubleLinkedList
+Node<T>
+val: T
+next?:Node<T>
+prev?: Node<T>
+
+Heap allocated objects
+
+(A) -> (B) <-> (C) <-> (D) <-
+ ^      ^
+ -->(F)--
+
+setting .nexts 
+setting .previews
+
+Next:    Previous
+A -> F   F <- B
+F -> B   A <- F
+O(1)
+
+
+Delete (C)
+
+B  = C.Previous
+D = C.next
+
+D.Previous = C.previous
+C.Previous = C.next = null
+ret C.Value
 
 
 */
