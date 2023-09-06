@@ -68,7 +68,7 @@ Heap allocated objects
  ^      ^
  -->(F)--
 
-setting .nexts 
+setting .nexts
 setting .previews
 
 Next:    Previous
@@ -87,6 +87,38 @@ C.Previous = C.next = null
 ret C.Value
 
 
+They are so foundational to programming concepts when it comes to DSA. Understanding them will help you with trees, with graphs, etc.
 */
 
 
+// #############
+// ### Queue ###
+// #############
+//
+/**
+ 
+Specific implemenation of a Linked List
+Firs in First Out (FIFO)
+
+(A) -> (B) -> (C) -> (D) --> E
+  ^-(H)-^
+ ^                    ^
+ Head               Tail
+
+To add (E): to the carnival it is necessary to update 
+tail to (E)  and (D) to (E) 2 steps operation.
+
+this.tail.next = E
+this.tail = E
+
+To pop up (A):
+
+h = head;
+head = head.next
+h.next = null;
+return h.val
+
+O(1)
+
+
+ */

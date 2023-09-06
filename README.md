@@ -44,12 +44,17 @@
 12. Linked List Data Structures
 13. Linked List Complexity
     * Lets talk time /scape complexity
-    - prepend/append
+    - Prepend/Append
     - Insertion in the middle
     - Deletion from ends
     - Deletion in the middle
     - Get head / tail
     - Get in general
+14. Queue
+    * enqueue
+    * deque
+    * peek
+15. Implementing a Queue
 # Module 04 - Arrays
 # Module 05 - Recursion
 # Module 06 - Quick Sort
