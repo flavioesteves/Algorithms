@@ -63,10 +63,16 @@
 18. Implementing a Stack
 
 # Module 04 - Arrays
---19. Arrays vs Linked List
---20. ArrayList
---21. ArrayBuffer
---22. Data Strctures Q&A
+19. Arrays vs Linked List
+    * Usability
+    * Time
+    * Space
+20. ArrayList
+21. ArrayBuffer
+22. Data Structures Q&A
+    * Lets fins out under the hood what type of data structure is being used with const a = [].
+    * Script array-test.js
+    * In JS it a ArrayList and not an array
 
 # Module 05 - Recursion
 --23. Recursion
