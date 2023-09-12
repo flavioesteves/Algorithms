@@ -89,8 +89,6 @@ ret C.Value
 
 They are so foundational to programming concepts when it comes to DSA. Understanding them will help you with trees, with graphs, etc.
 */
-
-
 // #############
 // ### Queue ###
 // #############
@@ -101,9 +99,9 @@ Specific implemenation of a Linked List
 Firs in First Out (FIFO)
 
 (A) -> (B) -> (C) -> (D) --> E
-  ^-(H)-^
- ^                    ^
- Head               Tail
+
+ ^     ^              ^
+ Head --              Tail
 
 To add (E): to the carnival it is necessary to update 
 tail to (E)  and (D) to (E) 2 steps operation.
@@ -118,7 +116,25 @@ head = head.next
 h.next = null;
 return h.val
 
-O(1)
+Performance: 2O(1)
+
+// #############
+// ### Stack ###
+// #############
+
+
+node<T>
+value: T
+next?: node<T>
+prev?: node<T>
+
+(A) <- (B) <- (C) <- (D)
+ ^                    ^
+ Tail                Head
+
+
+
+
 
 
  */

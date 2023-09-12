@@ -55,8 +55,25 @@
     * deque
     * peek
 15. Implementing a Queue
+16. Queue Q&A
+17. Stack
+    * push
+    * pop
+    * peek
+18. Implementing a Stack
+
 # Module 04 - Arrays
+--19. Arrays vs Linked List
+--20. ArrayList
+--21. ArrayBuffer
+--22. Data Strctures Q&A
+
 # Module 05 - Recursion
+--23. Recursion
+--24. Path Finding: Base Case
+--25. Recursion Q&A
+
+
 # Module 06 - Quick Sort
 # Module 07 - Doubly Linked List
 # Module 08 - Trees
@@ -68,7 +85,11 @@
 
 # Notes
 
-### Algorithms (The A In DSA)
-    
+## Algorithms (The A In DSA)
     - When applicable. Pretend that JS actually has arrays.
     - Only have access to the .length property of an array. So won't go full C neckbeard and require length to be passed in
+
+### Queue (DSA)
+    - We enteruing a world of DSA where constraints make things fast
+    - You will notice pretty much from hrere on out that makes a lot of these datastructures fast is the lack of features.
+
