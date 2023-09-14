@@ -75,9 +75,10 @@
     * In JS it a ArrayList and not an array
 
 # Module 05 - Recursion
---23. Recursion
---24. Path Finding: Base Case
---25. Recursion Q&A
+23. Recursion
+24. Path Finding: Base Case
+25. Path Finding: Recursive Case
+--26. Recursion Q&A
 
 
 # Module 06 - Quick Sort
