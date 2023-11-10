@@ -42,3 +42,6 @@ let maze: string[] = [
   "#$.######",
 ];
 
+
+//Q&A
+// Big O time: O(N)

@@ -78,10 +78,11 @@
 23. Recursion
 24. Path Finding: Base Case
 25. Path Finding: Recursive Case
---26. Recursion Q&A
-
+26. Recursion Q&A
 
 # Module 06 - Quick Sort
+27. QuickSort Algorithm
+28. Implementing QuickSort
 # Module 07 - Doubly Linked List
 # Module 08 - Trees
 # Module 09 - Tree Search
