@@ -91,13 +91,15 @@
 # Module 12 - Maps & LRU
 # Module 13 - Wrapping Up 
 
+
+
 # Notes
 
 ## Algorithms (The A In DSA)
     - When applicable. Pretend that JS actually has arrays.
     - Only have access to the .length property of an array. So won't go full C neckbeard and require length to be passed in
 
-### Queue (DSA)
+## Queue (DSA)
     - We enteruing a world of DSA where constraints make things fast
     - You will notice pretty much from hrere on out that makes a lot of these datastructures fast is the lack of features.
 
